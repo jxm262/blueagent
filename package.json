@@ -1,0 +1,29 @@
+{
+  "name": "superbird",
+  "version": "1.0.0",
+  "description": "Superagent + Bluebird = A really cool Promise based HTTP request library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jxm262/superbird.git"
+  },
+  "keywords": [
+    "superagent",
+    "bluebird",
+    "promise",
+    "superagent-bluebird",
+    "superagent-promises"
+  ],
+  "author": "Justin Maat <jxm262@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jxm262/superbird/issues"
+  },
+  "homepage": "https://github.com/jxm262/superbird"
+}
