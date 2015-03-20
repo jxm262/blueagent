@@ -2,12 +2,12 @@
   "name": "superbird",
   "version": "1.0.0",
   "description": "Superagent + Bluebird = A really cool Promise based HTTP request library",
-  "main": "index.js",
+  "main": "./lib/superbird.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "mocha test"
+    "test": "mocha test -R spec"
   },
   "repository": {
     "type": "git",
@@ -25,5 +25,15 @@
   "bugs": {
     "url": "https://github.com/jxm262/superbird/issues"
   },
-  "homepage": "https://github.com/jxm262/superbird"
+  "homepage": "https://github.com/jxm262/superbird",
+  "devDependencies": {
+    "chai": "^2.1.2",
+    "chai-as-promised": "^4.3.0",
+    "mocha": "^2.2.1",
+    "sinon": "^1.14.1"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.14",
+    "superagent": "^1.1.0"
+  }
 }
