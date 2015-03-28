@@ -1,5 +1,5 @@
 # Blueagent
-Superagent + Bluebird = A really cool Promise based HTTP request library  
+Bluebird + Superagent = A really cool Promise based HTTP request library  
   
 ## Download
 
