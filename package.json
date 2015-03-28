@@ -1,5 +1,5 @@
 {
-  "name": "superbird",
+  "name": "blueagent",
   "version": "1.0.0",
   "description": "Bluebird + Superbird = A really cool Promise based HTTP request library",
   "main": "./lib/blueagent.js",
@@ -23,9 +23,9 @@
   "author": "Justin Maat <jxm262@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jxm262/superbird/issues"
+    "url": "https://github.com/jxm262/blueagent/issues"
   },
-  "homepage": "https://github.com/jxm262/superbird",
+  "homepage": "https://github.com/jxm262/blueagent",
   "devDependencies": {
     "chai": "^2.1.2",
     "chai-as-promised": "^4.3.0",
