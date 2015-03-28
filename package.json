@@ -18,7 +18,8 @@
     "bluebird",
     "promise",
     "superagent-bluebird",
-    "superagent-promises"
+    "superagent-promises",
+    "bluebird-superagent"
   ],
   "author": "Justin Maat <jxm262@gmail.com>",
   "license": "MIT",
